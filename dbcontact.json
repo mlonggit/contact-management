@@ -1,0 +1,173 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode",
+      "firstname": "CheeKean",
+      "lastname": "Long",
+      "phonenumber": "7188867340",
+      "city": "Flushing"
+    },
+    {
+      "firstname": "Mike",
+      "lastname": "Long",
+      "phonenumber": "7188867340",
+      "city": "Flushing",
+      "id": 2
+    },
+    {
+      "firstname": "James",
+      "lastname": "Bond",
+      "phonenumber": "777-777-7777",
+      "city": "London",
+      "id": 3
+    },
+    {
+      "firstname": "Micheal ",
+      "lastname": "Cain",
+      "phonenumber": "673-276-8392",
+      "city": "Los Angles",
+      "id": 5
+    },
+    {
+      "firstname": "Mike",
+      "lastname": "Long",
+      "phonenumber": "3475569262",
+      "city": "Flushing",
+      "id": 6
+    },
+    {
+      "firstname": "Mike",
+      "lastname": "Long",
+      "phonenumber": "347556926",
+      "city": "Flushing",
+      "id": 7
+    },
+    {
+      "firstname": "Thomas",
+      "lastname": "Syefried",
+      "phonenumber": "2124457890",
+      "city": "New York",
+      "id": 8
+    },
+    {
+      "firstname": "Dr. Sanjay",
+      "lastname": "Kumar",
+      "phonenumber": "21234567899",
+      "city": "New Jersey",
+      "id": 9
+    },
+    {
+      "firstname": "Mike5",
+      "lastname": "Long",
+      "phonenumber": "7188867340",
+      "city": "Flushing",
+      "id": 10
+    },
+    {
+      "firstname": "Mick",
+      "lastname": "Jagger",
+      "phonenumber": "7682635467",
+      "city": "London",
+      "id": 11
+    },
+    {
+      "firstname": "Keith",
+      "lastname": "Richard",
+      "phonenumber": "2349871234",
+      "city": "London",
+      "id": 12
+    },
+    {
+      "firstname": "John",
+      "lastname": "Mayer",
+      "phonenumber": "1234567899",
+      "city": "NY",
+      "id": 13
+    }
+  ],
+  "signup": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "name": "mike",
+      "email": "mcklong@hotmail.com",
+      "password": "mlong123",
+      "id": 2
+    },
+    {
+      "name": "mlong1",
+      "email": "mlong1@mail.com",
+      "password": "mlong1",
+      "id": 3
+    }
+  ],
+  "contactus": [
+    {
+      "name": "mondo",
+      "email": "mondo@mail.com",
+      "message": "asprom romp pan ",
+      "id": 1
+    },
+    {
+      "name": "long",
+      "email": "long@mail.com",
+      "message": "this is  a test message kdfj\ndskjiid\naldkfa\nthie quick brown fox jump over the lazy fox.\n\nregards",
+      "id": 2
+    },
+    {
+      "name": "tina ",
+      "email": "tina@mail.com",
+      "message": "loerms ispsu sisidi {\"name\":\"mlong1\",\"email\":\"mlong1@mail.com\",\"password\":\"mlong1\",\"id\":3}",
+      "id": 3
+    },
+    {
+      "name": "abc",
+      "email": "abc@gmail.com",
+      "message": "problem viewing admin view",
+      "id": 4
+    },
+    {
+      "name": "Smith",
+      "email": "smith@gmail.com",
+      "message": "Error has occured asdf asdf",
+      "id": 5
+    },
+    {
+      "name": "Charles",
+      "email": "charles@gmail.com",
+      "message": "another message ",
+      "id": 6
+    },
+    {
+      "name": "john",
+      "email": "john@mail.com",
+      "message": "another message form fjohn ",
+      "id": 7
+    }
+  ],
+  "adminsignup": [
+    {
+      "name": "mlong",
+      "email": "mlong@mail.com",
+      "password": "mlong",
+      "id": 1
+    },
+    {
+      "name": "mlong2",
+      "email": "mlong2@mail.com",
+      "password": "mlong2",
+      "id": 2
+    },
+    {
+      "name": "admike",
+      "email": "admike@gmail.com",
+      "password": "admike",
+      "id": 3
+    }
+  ]
+}
